@@ -1,0 +1,8 @@
+prefix=/home/ghl/Desktop/qrcode_detect_ws/devel
+
+Name: qrcode_ros
+Description: Description of qrcode_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
