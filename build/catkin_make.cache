@@ -1,2 +1,0 @@
-qrcode_ros
--DCATKIN_DEVEL_PREFIX=/home/ghl/Desktop/qrcode_detect_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ghl/Desktop/qrcode_detect_ws/install -G Unix Makefiles
